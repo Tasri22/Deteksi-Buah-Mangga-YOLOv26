@@ -51,7 +51,6 @@ Buka file `training.ipynb` di Google Colab. Pastikan Anda sudah memiliki API Key
 ├── requirements.txt    # Daftar library yang diperlukan
 └── README.md           # Dokumentasi proyek
 ```
-
 ## 📝 Kesimpulan & Kendala
 Proyek ini membuktikan bahwa YOLOv26 sangat efisien untuk dataset skala kecil. Kendala utama yang dihadapi adalah anotasi manual yang memakan waktu dan variasi pencahayaan pada gambar, yang diatasi dengan teknik augmentasi data.
 ```
