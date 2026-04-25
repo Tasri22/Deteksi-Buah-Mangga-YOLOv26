@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Mango-Detection']
+
+roboflow:
+  workspace: alfadrian-januarsyah-s-workspace
+  project: mango-detection-npncs
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/alfadrian-januarsyah-s-workspace/mango-detection-npncs/dataset/1
